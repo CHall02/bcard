@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.avatar {
+    width: 160px;
+    border-radius: 20px;
+}
+
+.card {
+  border-radius:20px 20px 0;
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #DA4167;
+  color: #2b2839;
+  border-bottom: 6px solid #82D4BB;
+}
